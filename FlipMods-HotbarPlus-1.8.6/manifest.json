@@ -1,0 +1,9 @@
+{
+    "name": "HotbarPlus",
+    "version_number": "1.8.6",
+    "website_url": "https://github.com/cmooref17/Lethal-Company-HotbarPlus",
+    "description": "Many quality of life and configurable hotbar settings and tweaks, including setting custom hotbar sizes that will sync with the host. Energy bars included. Lightning warning icons included. Additional slots can now be purchased!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
