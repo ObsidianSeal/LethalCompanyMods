@@ -2,7 +2,9 @@
 
 # BepInExPack
 
-This is [BepInEx 5.4.21](https://github.com/BepInEx/BepInEx) pack.
+This is [BepInEx 5.4.23.4](https://github.com/BepInEx/BepInEx) pack.
+
+The exact version is `BepInEx_win_x64_5.4.23.4.zip  ` from https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.4
 
 BepInEx is a general purpose framework for Unity modding.
 BepInEx includes tools and libraries to
@@ -23,22 +25,17 @@ In particular, this pack comes with preconfigured `BepInEx.cfg` that enables the
 
 This is the recommended way to install BepInEx on the game.
 
-1. Download and install [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or [r2modman](https://for-the-king.thunderstore.io/package/ebkr/r2modman/)
-2. Click **Install with Mod Manager** button on top of the page
-3. Run the game via the mod manager
+1. Download and install [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or another compatible mod manager.
+2. Click **Install with Mod Manager** button on top of the page.
+3. Run the game via the mod manager.
 
 ## Installation (manual)
 
-If you are installing this manually, do the following
+If you are installing this manually, do the following:
 
 1. Extract the archive into a folder. **Do not extract into the game folder.**
 2. Move the contents of `BepInExPack` folder into the game folder (where the game executable is located).
 3. Run the game. If everything runs correctly, you will see BepInEx console pop up on your desktop.
-4. Follow the game running instructions below:
-
-### Configuration
-
-No need to configure. Simply run the game. If everything is correct, you will see a console pop up.
 
 ## Useful links
 
@@ -48,12 +45,6 @@ No need to configure. Simply run the game. If everything is correct, you will se
 
 ## Issues, questions, etc.
 
-At this moment, you can use the following channels to ask for help
-
-* [BepInEx Discord](https://discord.gg/MpFEDAg) -- **Only technical support for THIS PACKAGE. No support for plugins.**
-
-## Changelog
-
-### 5.4.2100
-
-* Initial release
+At this moment, you can use the following channels to ask for help:
+* [Thunderstore Discord](https://discord.com/invite/UWpWhjZken) -- **Primarily for when BepInEx is installed through Thunderstore Mod Manager**
+* [BepInEx Discord](https://discord.gg/MpFEDAg) -- **Only for technical support for BepInEx itself. No support for mods / plugins.**

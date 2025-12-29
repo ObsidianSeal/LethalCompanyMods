@@ -36,7 +36,7 @@ last updated: `2025/10/31`
 
 ## MOD LIST
 
-last updated: `2025/10/29`
+last updated: `2025/12/28`
 
 1. **Boombox Controller v1.2.7** - play custom music from the boombox [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/versions/)] **UPDATED**
 2. **HotbarPlus v1.8.6** - numeric hotkeys for a customizable number of inventory slots [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/versions/)] **UPDATED**
@@ -49,7 +49,7 @@ last updated: `2025/10/29`
 
 plus 1 dependency (**Runtime Netcode Patcher v0.2.5**) [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/versions/)]
 
-plus **BepInEx v5.4.2100**, of course [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/versions/)]
+plus **BepInEx v5.4.2304**, of course [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/versions/)]
 
 total mods: `10`
 
