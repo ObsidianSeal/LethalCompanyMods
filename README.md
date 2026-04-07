@@ -11,7 +11,7 @@
 last updated: `2025/12/29`
 
 0. if you don&rsquo;t know where your `Lethal Company` folder is, go to **Steam > Library > Lethal Company (right click) > Installed Files > Browse**
-1. copy everything (4 items) within `BepInEx-BepInExPack-5.4.2304/BepInExPack` into the `Lethal Company` folder
+1. copy everything (4 items) within `BepInEx-BepInExPack-5.4.2305\BepInExPack` into the `Lethal Company` folder
      - `BepInEx`
      - `.doorstop_version`
      - `doorstop_config.ini`
@@ -54,7 +54,7 @@ last updated: `2026/04/07`
 
 - plus 1 dependency (**Runtime Netcode Patcher v0.2.5**) [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/versions/)]
 
-- plus **BepInEx v5.4.2305**, of course [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/versions/)]
+- plus **BepInExPack v5.4.2305**, of course [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/versions/)]
 
 total mods: `10`
 
