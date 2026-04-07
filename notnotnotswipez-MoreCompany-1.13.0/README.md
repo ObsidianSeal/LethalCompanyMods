@@ -41,6 +41,9 @@ This mod is not affiliated with BiggerLobby/LethalPlayers nor does it use any co
 ```
 
 # Changelog
+## 1.13.0
+- v81 support
+
 ## 1.12.0
 - v73 support
 

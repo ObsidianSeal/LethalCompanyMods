@@ -2,9 +2,9 @@
 
 # BepInExPack
 
-This is [BepInEx 5.4.23.4](https://github.com/BepInEx/BepInEx) pack.
+This is [BepInEx 5.4.23.5](https://github.com/BepInEx/BepInEx) pack.
 
-The exact version is `BepInEx_win_x64_5.4.23.4.zip  ` from https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.4
+The exact version is `BepInEx_win_x64_5.4.23.5.zip` from https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5
 
 BepInEx is a general purpose framework for Unity modding.
 BepInEx includes tools and libraries to
