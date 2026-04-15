@@ -1,5 +1,7 @@
 # Lethal Company Mods
 
+[![CodeFactor](https://www.codefactor.io/repository/github/obsidianseal/lethalcompanymods/badge)](https://www.codefactor.io/repository/github/obsidianseal/lethalcompanymods)
+
 - [DOWNLOAD THE MODS](https://ite.fyi/LCmods+) from this GitHub repository
 - view the [BOOMBOX PLAYLIST](https://ite.fyi/LCmusic) on YouTube Music and vote on the tracks
 - [CONTRIBUTE](https://ite.fyi/LCmusic+) to the boombox playlist by adding tracks on YouTube Music
