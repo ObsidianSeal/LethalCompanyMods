@@ -1,6 +1,6 @@
 # Lethal Company Mods
 
-[![CodeFactor](https://www.codefactor.io/repository/github/obsidianseal/lethalcompanymods/badge)](https://www.codefactor.io/repository/github/obsidianseal/lethalcompanymods)
+[![CodeFactor](https://www.codefactor.io/repository/github/obsidianseal/lethalcompanymods/badge)](https://www.codefactor.io/repository/github/obsidianseal/lethalcompanymods) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-teal.svg)](https://github.com/Naereen/badges) [![Seal Squad](https://img.shields.io/discord/755782483588677653.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://ite.fyi/ss)
 
 - [DOWNLOAD THE MODS](https://ite.fyi/LCmods+) from this GitHub repository
 - view the [BOOMBOX PLAYLIST](https://ite.fyi/LCmusic) on YouTube Music and vote on the tracks
