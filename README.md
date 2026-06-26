@@ -12,7 +12,7 @@
 
 last updated: `2025/12/29`
 
-0. if you don&rsquo;t know where your `Lethal Company` folder is, go to **Steam > Library > Lethal Company (right click) > Installed Files > Browse**
+0. if you don&rsquo;t know where your `Lethal Company` folder is, go to **Steam > Library > Lethal Company (right click) > Manage > Browse local files**
 1. copy everything (4 items) within `BepInEx-BepInExPack-5.4.2305\BepInExPack` into the `Lethal Company` folder
      - `BepInEx`
      - `.doorstop_version`
