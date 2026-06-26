@@ -43,13 +43,13 @@ last updated: `2025/12/29`
 
 ## MOD LIST
 
-last updated: `2026/04/07`
+last updated: `2026/06/26`
 
 1. **Boombox Controller v1.2.7** - play custom music from the boombox [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/versions/)] - BROKEN; see &ldquo;INFORMATION & RECOMMENDATIONS&rdquo; for fix
 2. **HotbarPlus v1.8.6** - numeric hotkeys for a customizable number of inventory slots [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/versions/)] - UNTESTED
 3. **JesterFree v2.0.0** - you&rsquo;ll see [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree/versions/)] - UNTESTED
 4. **LateCompany v1.0.18** - more lax clock-in rules [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/versions/)] - UNTESTED
-5. **MoreCompany v1.13.0** - sole proprietorship? more like limited liability corporation [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/versions/)] - UNTESTED
+5. **MoreCompany v1.14.0** - sole proprietorship? more like limited liability corporation [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/versions/)] - UNTESTED
 6. **More Emotes v1.3.3** - more emotes from a selection wheel [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/versions/)] - UNTESTED
 7. **ShipLoot v1.1.0** - an accurate count of the loot on the ship [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/versions/)] - UNTESTED
 8. **YippeeMod v1.2.4** - hoarding bugs say "yippee!" [[Thunderstore link](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/versions/)] - UNTESTED

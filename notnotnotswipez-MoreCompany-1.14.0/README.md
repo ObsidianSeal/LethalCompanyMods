@@ -41,6 +41,21 @@ This mod is not affiliated with BiggerLobby/LethalPlayers nor does it use any co
 ```
 
 # Changelog
+## 1.14.0
+- Patched kidnapper fox's closest player targeting to work with 4+ players.
+- Changed kidnapper fox's behavior to require only 3 maximum players to observe it instead of all but one player.
+- Fixed kidnapper fox's AI taking an unnecessarily long time to retarget another valid player.
+
+## 1.13.3
+- Enforced "With detected mods" setting to always be true when using MoreCompany.
+
+## 1.13.2
+- Rebuilt UI packages to support LCVR's upcoming update (1.5.0)
+
+## 1.13.1
+- Rebuilt built-in cosmetics to support LCVR's upcoming update (1.5.0)
+- Fixed a potential NullReferenceException if a null chat message was sent to the server
+
 ## 1.13.0
 - v81 support
 
